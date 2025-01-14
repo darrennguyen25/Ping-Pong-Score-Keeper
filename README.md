@@ -6,7 +6,7 @@ Simple score keeper for ping pong
     <img src="https://i.postimg.cc/BvqYb02z/image.png">
 </p>
 
-##Languages Used
+## Languages Used
 
 - HTML
 - Bulma CSS Framework
